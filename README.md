@@ -2,7 +2,7 @@
 
 HTML stands for **Hyper Text Markup Language**. It is the building block of every website.This repository contains all the concepts I learned in HTML.
 
-## **HTML Tags: **
+## HTML Tags:
 
 ### **_Text Basics_**
 1. **_h1_**: This is the heading tag and it offers the largest heading possible.
