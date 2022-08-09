@@ -19,3 +19,7 @@ HTML stands for **Hyper Text Markup Language**. It is the building block of ever
    1. **_dt_**: The topic to be described.
    2. **_dd_**: Description of the topic.
 4. **_li_**: Used to enumerate list items.
+
+### **_Link Tags_**:
+1. **_a_**: This is an anchor tag and using it's _href_ attribute we can link pages to our web page.
+2. **_link_**: This defines the relationship between the current document and an external resource.
